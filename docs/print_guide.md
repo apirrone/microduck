@@ -1,3 +1,4 @@
+- 11x passive_horn.stl
 - 2x foot.stl
 - 2x foot_tpu_bottom.stl (Print in tpu)
 - 1x head_base_plate.stl
