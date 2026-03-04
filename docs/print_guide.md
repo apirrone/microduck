@@ -1,17 +1,19 @@
-- 11x passive_horn.stl
+- 12x passive_horn.stl
 - 2x foot.stl
 - 2x foot_tpu_bottom.stl (Print in tpu)
 - 1x head_base_plate.stl
 - 1x head_pitch_to_yaw.stl- 1x head_yaw_to_roll.stl
 - 1x left_roll_to_pitch.stl
 - 1x right_roll_to_pitch.stl
-- 10x leg_plate.stl
+- 8x leg_plate.stl
+- 1x long_neck_plate1.stl
+- 1x long_neck_plate2.stl
 - 2x roll_motor_bottom.stl
 - 2x roll_motor_top.stl- 1x trunk_base.stl- 1x trunk_yaw.stl
 - 1x uc_boards.stl
 - 1x Uc_inside_holder.stl
 - 1x Uc.stl
-
+- 1x neck_reinforcement.stl
 - 1x head_top.stl
 - 1x top_shell.stl
 - 1x bottom_shell.stl
