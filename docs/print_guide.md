@@ -17,3 +17,7 @@
 - 1x head_top.stl
 - 1x top_shell.stl
 - 1x bottom_shell.stl
+
+- 1x mouth.stl
+- 1x camshaft.stl
+- 1x crossmember.stl
