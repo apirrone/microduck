@@ -25,9 +25,9 @@ Take also the time to set the following parameters for each motor :
 - baudrate: 1000000
 - homing offset: 0
 - pwm slope: 255
-- shutdown: 52 <image>
+- shutdown: 52
 
-
+<img width="571" height="450" alt="Capture d’écran du 2026-03-10 10-59-37" src="https://github.com/user-attachments/assets/8f601c19-ccb3-4ed6-b208-0aecb6053955" />
 
 ## TODO 
 - [x] wiring diagram
